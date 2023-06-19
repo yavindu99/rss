@@ -2,6 +2,7 @@ package com.yavindu.rss;
 
 import com.rometools.rome.io.FeedException;
 import com.yavindu.rss.model.FeedEntry;
+import com.yavindu.rss.repository.FeedRepository;
 import com.yavindu.rss.service.RSSService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

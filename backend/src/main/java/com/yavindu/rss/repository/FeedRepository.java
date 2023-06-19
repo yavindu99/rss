@@ -1,4 +1,4 @@
-package com.yavindu.rss;
+package com.yavindu.rss.repository;
 
 import com.yavindu.rss.model.Feed;
 import com.yavindu.rss.model.FeedEntry;

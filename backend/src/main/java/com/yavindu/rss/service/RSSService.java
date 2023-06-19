@@ -4,7 +4,7 @@ import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.io.FeedException;
 import com.rometools.rome.io.SyndFeedInput;
 import com.rometools.rome.io.XmlReader;
-import com.yavindu.rss.FeedRepository;
+import com.yavindu.rss.repository.FeedRepository;
 import com.yavindu.rss.model.Feed;
 import com.yavindu.rss.model.FeedEntry;
 import lombok.RequiredArgsConstructor;
