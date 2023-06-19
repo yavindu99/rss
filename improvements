@@ -1,1 +1,2 @@
-By using observer pattern we can send rss feeds to different observers 
+By using observer pattern we can send rss feeds to different observers
+Better to store in NoSql DB 
